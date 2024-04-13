@@ -9,3 +9,5 @@ class Saxon {}
 
 // War
 class War {}
+
+console.log("Hello world");
